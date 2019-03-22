@@ -1,0 +1,14 @@
+{
+  "name": "yoeding8",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "redrock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yoeding"
+  ],
+  "author": "yoeding",
+  "license": "ISC"
+}
